@@ -8,7 +8,7 @@
 
 cd /var/www/
 
-git clone ... folder
+git clone https://github.com/warlight/CRUD-1 folder
 
 cd folder
 
